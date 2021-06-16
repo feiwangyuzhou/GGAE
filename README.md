@@ -29,15 +29,15 @@ To reproduce the results published in the paper:
 ### Citation
 Please cite our paper if you use this code in your work.
 
-@ARTICLE{9452178,
-  author={Li, Qian and Wang, Daling and Feng, Shi and Niu, Cheng and Zhang, Yifei},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Global Graph Attention Embedding Network for Relation Prediction in Knowledge Graphs}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-14},
-  doi={10.1109/TNNLS.2021.3083259}}
+        @ARTICLE{9452178,
+          author={Li, Qian and Wang, Daling and Feng, Shi and Niu, Cheng and Zhang, Yifei},
+          journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+          title={Global Graph Attention Embedding Network for Relation Prediction in Knowledge Graphs}, 
+          year={2021},
+          volume={},
+          number={},
+          pages={1-14},
+          doi={10.1109/TNNLS.2021.3083259}}
 
 
 For any clarification, comments, or suggestions please create an issue or contact feiwangyuzhou@163.com
